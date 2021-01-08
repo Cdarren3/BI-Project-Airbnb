@@ -13,8 +13,14 @@ http://insideairbnb.com/get-the-data.html
 
 ## Findings
 
-#### Insight for Hosts
+#### Insight for AirBnB Hosts
 - New hosts with good performace are predominantly concentrated in Islands and Yau Tsim Mong District
 - Rent of private room is less than half of that of whole apartment in the same district on average
 - New Sai Kung hosts should target to set the price below $1500 for an apartment and $400 for a private room to be competitive
 - Interactive dashboard could be visited <a href="https://public.tableau.com/profile/jackychan#!/vizhome/BIProject_16062109678510/Dashboard1?publish=yes">HERE</a>
+
+#### Insight for AirBnB tenants
+- Among all room type hotel room costs the most whereas shared room is the most affordable
+- The average price among all districts are similar
+- Couples who wanna do spontaneous but affordable booking can consider accomadations in YTM & Central and Western District, and also the ones located near the border
+- Interactive dashboard could be visited <a href="https://public.tableau.com/profile/gemma4113#!/vizhome/AirbnbHK_16063745184510/Story1?publish=yes">Here</a>
